@@ -1,0 +1,7 @@
+Rock, paper, scossor game.
+1. Get the computer choice from random selection between three (rock, paper, scissors).
+2. Gei input for the human choice, person enetrs on of three choices. (use the prompt)
+3. The players' scores shpuld be saved, create variables.
+4.Write the logic to play a single round.
+5.Write the logic for rounds. There should be 5 playable rounds, with scores that increase.
+6
